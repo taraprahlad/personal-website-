@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/wisteria.jpg
+  url: /images/Intellectual Vitality.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
