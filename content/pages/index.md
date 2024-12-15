@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'hi, i''m tara!'
+    title: 'hi, i''m tara! '
     subtitle: >-
       I'm an aspiring polymath seeking to understand what the connections
       between different fields can reveal about our cognition. I like to ask
