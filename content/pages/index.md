@@ -15,12 +15,12 @@ sections:
     backgroundSize: full
     title: 'hi, i''m tara!'
     subtitle: >-
-      I'm an aspiring polymath seeking to understand what the connections
-      between different fields can reveal about our cognition. I like to ask
-      questions, drink tea, and yap enthusiastically with anyone willing to
-      listen. In my free time, I'm a student at the University of Chicago —
-      double-majoring in Cognitive Science and Math with a minor in Data
-      Science.
+      Welcome to my abode, baddies and daddies! I'm an aspiring polymath seeking
+      to understand what the connections between different fields can reveal
+      about our cognition. I like to ask questions, drink tea, and yap
+      enthusiastically with anyone willing to listen. In my free time, I'm a
+      student at the University of Chicago — double-majoring in Cognitive
+      Science and Math with a minor in Data Science.
     styles:
       self:
         height: auto
