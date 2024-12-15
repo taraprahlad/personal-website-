@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'hi, i''m tara! '
+    title: "hi, i'm tara! \U000131FC ⋆｡˚ \U0001319D⋆｡˚ \U000131FC"
     subtitle: >-
       I'm an aspiring polymath seeking to understand what the connections
       between different fields can reveal about our cognition. I like to ask
