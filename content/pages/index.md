@@ -132,7 +132,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Hit me up if you want to chat! \U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
