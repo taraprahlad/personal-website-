@@ -48,13 +48,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
-      I'm an aspiring polymath seeking to understand what the connections
-      between different fields can reveal about our cognition. I like to ask
-      questions, drink tea, and yap enthusiastically with anyone willing to
-      listen. In my free time, I'm a student at the University of Chicago —
-      double-majoring in Cognitive Science and Math with a minor in Data
-      Science.
+    text: "You have a lighter and two lengths of rope that burn for exactly 1 hour each. They do not burn consistently so you cannot, for example, cut one in half and burn that. How can you use these two ropes to measure exactly 45 minutes? Hit me up if you think you have the answer! \U0001F63C\n"
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
