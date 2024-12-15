@@ -87,32 +87,6 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - type: QuoteSection
-    quote: >
-      You don't need 20 friends, you just need 3 motherf\*\*\*ers and you can
-      take over a country.
-    name: I forgot who said this unfortunately.
-    title: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight": 500
-        textAlign: left
-      title:
-        fontWeight": 400
-        textAlign: left
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
