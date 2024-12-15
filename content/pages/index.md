@@ -8,6 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/Intellectual Vitality.jpeg
 sections:
   - elementId: ''
     colors: colors-f
