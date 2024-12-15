@@ -48,7 +48,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: "You have a lighter and two lengths of rope that burn for exactly 1 hour each. They do not burn consistently so you cannot, for example, cut one in half and burn that. How can you use these two ropes to measure exactly 45 minutes? Hit me up if you think you have the answer! \U0001F63C\n"
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
