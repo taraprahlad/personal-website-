@@ -91,7 +91,7 @@ sections:
     quote: >
       You don't need 20 friends, you just need 3 motherf\*\*\*ers and you can
       take over a country.
-    name: Johnna Doe
+    name: I forgot who said this unfortunately.
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
