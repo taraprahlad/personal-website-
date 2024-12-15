@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'hi, i''m tara!'
-    subtitle: >-
-      I'm a student at the University of Chicago, double-majoring in Cognitive
-      Science and Math with a minor in Data Science.
+    subtitle: I'm an aspiring polymath who
     styles:
       self:
         height: auto
