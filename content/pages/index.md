@@ -15,8 +15,12 @@ sections:
     backgroundSize: full
     title: 'hi, i''m tara!'
     subtitle: >-
-      I'm an aspiring polymath who's chronically on Wikipedia or Discord. In my
-      free time, I'm a student at the University of Chicago
+      I'm an aspiring polymath seeking to understand what the connections
+      between language, thought and math can reveal about cognition. I like to
+      ask questions, drink tea, and yap enthusiastically with anyone willing to
+      listen. In my free time, I'm a student at the University of Chicago —
+      double-majoring in Cognitive Science and Math with a minor in Data
+      Science.
     styles:
       self:
         height: auto
