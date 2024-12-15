@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: 'hi, i''m tara!'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I'm a student at the University of Chicago, double-majoring in Cognitive
+      Science and Math with a minor in Data Science.
     styles:
       self:
         height: auto
