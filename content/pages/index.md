@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'hi, i''m tara!'
-    subtitle: I'm an aspiring polymath who
+    subtitle: >-
+      I'm an aspiring polymath who's chronically on Wikipedia or Discord. In my
+      free time, I'm a student at the University of Chicago
     styles:
       self:
         height: auto
